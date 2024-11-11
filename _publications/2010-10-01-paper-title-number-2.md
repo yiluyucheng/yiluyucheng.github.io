@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Insights into ageing rates comparison across tissues from recalibrating cerebellum DNA methylation clock"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: https://doi.org/10.1007/s11357-023-00871-w
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 19 August 2023
+venue: 'GeroScience'
+paperurl: 'https://academic.oup.com/bioinformatics/article/38/16/3950/6623409'
+citation: 'Wang, Yucheng, et al. "Insights into ageing rates comparison across tissues from recalibrating cerebellum DNA methylation clock." GeroScience 46.1 (2024): 39-56.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
