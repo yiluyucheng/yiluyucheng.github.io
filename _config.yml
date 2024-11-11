@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "UK"
-title                    : "Mr Wang"
+title                    : "Dr. Wang"
 title_separator          : "-"
-name                     : &name "Mr Yucheng Wang"
+name                     : &name "Dr. Yucheng Wang"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yiluyucheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Yucheng Wang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Oxford, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=-k0mE3AAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
