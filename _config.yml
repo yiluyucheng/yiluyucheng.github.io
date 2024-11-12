@@ -82,10 +82,10 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Oxford, UK"
-  employer         : "Ludwig Institute for Cancer Research, University of Oxford"
+  employer         : "Ludwig Institute for Cancer Research,\n University of Oxford"
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=-k0mE3AAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            : "wangyucheng511@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
