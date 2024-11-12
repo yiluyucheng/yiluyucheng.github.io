@@ -6,7 +6,7 @@ excerpt: 'We presented a two-step sex-unbiased data normalization strategy for n
 date: 30 June 2022
 venue: 'Bioinformatics'
 paperurl: 'https://doi.org/10.1093/bioinformatics/btac436'
-citation: 'Wang, Yucheng, et al. "InterpolatedXY: a two-step strategy to normalize DNA methylation microarray data avoiding sex bias." Bioinformatics 38.16 (2022): 3950-3957.'
+citation: 'Wang, Yucheng, Tyler J. Gorrie-Stone, Olivia A. Grant, Alexandria D. Andrayas, Xiaojun Zhai, Klaus D. McDonald-Maier, and Leonard C. Schalkwyk. "InterpolatedXY: a two-step strategy to normalize DNA methylation microarray data avoiding sex bias." Bioinformatics 38, no. 16 (2022): 3950-3957.'
 ---
 
 [Download paper here](https://doi.org/10.1093/bioinformatics/btac436)
