@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Essex, UK, 2019.10--2023.06
+* M.S. in Developmental Biology, University of Chinese Academy of Sciences, China, 2012.09-2015.06
+* B.S. in Soil and Water Conservation, Beijing Forestry University, China, 2008.09-2012.06
+
 
 Work experience
 ======
