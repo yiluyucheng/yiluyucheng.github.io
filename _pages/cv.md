@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Post-doctoral Fellow
+* Post-doctoral Fellow (2023.03-present)
   * Ludwig Institute for Cancer Research, University of Oxford.
   * Utilizing bioinformatic analysis of multi-omic sequencing data to investigate the role of RNA modifiers in cancer, with a specific focus on RNA methyltransferases in colorectal cancer.
     
