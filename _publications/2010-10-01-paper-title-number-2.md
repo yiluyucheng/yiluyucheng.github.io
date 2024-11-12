@@ -6,5 +6,5 @@ excerpt: 'We collected the largest cerebellum DNAm dataset (N = 752) to date. We
 date: 19 August 2023
 venue: 'GeroScience'
 paperurl: 'https://academic.oup.com/bioinformatics/article/38/16/3950/6623409'
-citation: 'Wang, Yucheng, et al. "Insights into ageing rates comparison across tissues from recalibrating cerebellum DNA methylation clock." GeroScience 46.1 (2024): 39-56.'
+citation: 'Wang, Yucheng, Olivia A. Grant, Xiaojun Zhai, Klaus D. Mcdonald-Maier, and Leonardo C. Schalkwyk. "Insights into ageing rates comparison across tissues from recalibrating cerebellum DNA methylation clock." GeroScience 46, no. 1 (2024): 39-56.'
 ---
