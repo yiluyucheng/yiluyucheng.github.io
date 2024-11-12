@@ -18,9 +18,13 @@ Education
 
 Work experience
 ======
+* Post-doctoral Fellow
+  * Ludwig Institute for Cancer Research, University of Oxford.
+  * Utilizing bioinformatic analysis of multi-omic sequencing data to investigate the role of RNA modifiers in cancer, with a specific focus on RNA methyltransferases in colorectal cancer.
+    
 * Research Officer (2021.04-2022.04)
   * University of Essex, UK
-  * Duties included: develop automated algorithms and tools for remote sensing image analysis in support of snow coverage & crop type mapping.
+  * Responsibilities included developing automated algorithms and tools for remote sensing image analysis to support snow coverage assessment and crop type mapping.
 
 * Graduate Laboratory Assistant (2020-2021)
   * University of Essex, UK
