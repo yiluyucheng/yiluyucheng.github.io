@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Oxford, UK"
-  employer         :
+  employer         : "Ludwig Institute for Cancer Research, University of Oxford"
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=-k0mE3AAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yucheng62950120"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
