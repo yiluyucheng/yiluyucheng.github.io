@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "UK"
-title                    : "Dr. Wang"
+title                    : "Yucheng Wang"
 title_separator          : "-"
 name                     : &name "Dr. Yucheng Wang"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,9 @@ analytics:
 author:
   name             : "Dr. Yucheng Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "Ludwig Institute for Cancer Research"
   employer         : "University of Oxford"
-  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=-k0mE3AAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "wangyucheng511@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
