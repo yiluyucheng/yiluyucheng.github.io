@@ -11,6 +11,7 @@ redirect_from:
 Dr Yucheng Wang is a Post-doctoral Fellow at Ludwig Institute for Cancer Research, University of Oxford. Currently, his research focuses on manipulating the transcription and post-transcriptional modification of transposable elements in the human genome to activate innate immune responses, ultimately aiming to develop novel cancer therapies and combination treatments. 
 
 ### Core interest 1: transposable elements and cancer epigenetic therapy
+Transposable elements, often referred to as "jumping genes," occupy nearly half of the human genome and have significant, yet underexplored, roles in cancer biology. My work investigates how manipulating these elements can trigger innate immune pathways, providing a novel approach to combat cancer.
 
 ### Core interest 2: DNA methylation and ageing
 
