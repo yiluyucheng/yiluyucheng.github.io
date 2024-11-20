@@ -20,3 +20,4 @@ Understand the mechanisms underlying epigenetic disruptions accompanying ageing;
 
 ### Core interest 3: Develop bioinformatic tools
 ------
+I am interested in developing bioinformatic methods and tools that enable user-friendly analysis of biological data. 
