@@ -14,6 +14,7 @@ Dr Yucheng Wang is a Post-doctoral Fellow at Ludwig Institute for Cancer Researc
 Transposable elements, often referred to as "jumping genes," occupy nearly half of the human genome and have significant, yet underexplored, roles in cancer biology. My work investigates how manipulating these elements can trigger innate immune pathways, providing a novel approach to combat cancer.
 
 ### Core interest 2: DNA methylation and ageing
+Understand the mechanisms underlying epigenetic disruptions accompanying ageing; Develop applicable chronological and biological ageing clocks using epigenetic information; Develop bioinformatic tools for epigenetic studies. 
 
 Core interest 1: transposable elements and cancer epigenetic therapy
 ======
