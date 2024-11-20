@@ -37,11 +37,11 @@ Work experience
   
 Skills
 ======
-1. Proficient in Python and R programming.
-2. Skilled in statistical analysis and data visualization techniques.
-3. Knowledgeable in a range of machine learning algorithms, with hands-on experience applying machine learning and deep learning methods to biological data.
-4. Experienced in analyzing diverse data types, including metagenomics, genomics, RNA sequencing, and DNA methylation.
-5. Proven track record of high-quality, independent research.
+* Proficient in Python and R programming, representative works can be found in my github projects [dnaMethyAge](https://github.com/yiluyucheng/dnaMethyAge) and [SnowCoverage](https://github.com/yiluyucheng/SnowCoverage).
+* Skilled in statistical analysis and data visualization techniques.
+* Knowledgeable in various machine learning algorithms, with hands-on experience applying machine learning and deep learning methods to biological data.
+* Experienced in analyzing diverse data types, including metagenomics, genomics, RNA sequencing, and DNA methylation.
+* Proven track record of high-quality, independent research.
 
 Publications
 ======
