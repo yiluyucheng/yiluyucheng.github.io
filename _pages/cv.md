@@ -34,7 +34,10 @@ Work experience
   * Berry Genomics Co. Ltd., China
   * Berry Genomics is a leading Chinese biotech company offering non-invasive prenatal genetic tests for pregnant women. I was responsible for developing algorithms to improve the accuracy and detection limits of NIPT, since then I developed several machine learning models to accurately predict foetal DNA fraction in maternal plasma which greatly benefits the interpretation of the NIPT results.
 
-  
+Award
+=====
+Interdisciplinary PhD research scholarship, University of Essex, 2019~2022
+
 Skills
 ======
 * Proficient in Python and R programming, representative works can be found in my github projects [dnaMethyAge](https://github.com/yiluyucheng/dnaMethyAge) and [SnowCoverage](https://github.com/yiluyucheng/SnowCoverage).
