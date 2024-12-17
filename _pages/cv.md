@@ -36,7 +36,7 @@ Work experience
 
 Award
 =====
-Interdisciplinary PhD research scholarship, University of Essex, 2019~2022
+University of Essex Faculty of Science and Health Interdisciplinary Doctoral Scholarship Award 2019-2020 
 
 Skills
 ======
